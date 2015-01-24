@@ -13,7 +13,7 @@ What if you found a trusted expert? You'd finally have help finishing your proje
 customers. You won't wonder who you gave your money to.
 
 I've completed projects for companies of all shapes and sizes. Building applications to support business processes and
-consumer products that demanded speed and style are my bread and butter. You can depend on me to deliver and help you
+consumer products that demand speed and style are my bread and butter. You can depend on me to deliver and help you
 grow your business.
 
 Let's start a conversation if you need an expert you can trust.

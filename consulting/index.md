@@ -17,3 +17,14 @@ consumer products that demanded speed and style are my bread and butter. You can
 grow your business.
 
 Let's start a conversation if you need an expert you can trust.
+
+<img src="../images/client-logos/client-logo-raytheon.png" width="150px">
+
+<img src="../images/client-logos/client-logo-toyota.png" width="150px">
+
+<img src="../images/client-logos/client-logo-lexus.png" width="150px">
+
+<img src="../images/client-logos/client-logo-irvinecompany.png" width="150px">
+
+<img src="../images/client-logos/client-logo-marketshare.png" width="150px">
+

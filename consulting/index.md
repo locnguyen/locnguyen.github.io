@@ -24,6 +24,8 @@ Let's start a conversation if you need an expert you can trust.
 
 <img src="../images/client-logos/client-logo-lexus.png" width="150px">
 
+<img src="../images/client-logos/client-logo-wb.png" width="150px">
+
 <img src="../images/client-logos/client-logo-irvinecompany.png" width="150px">
 
 <img src="../images/client-logos/client-logo-marketshare.png" width="150px">

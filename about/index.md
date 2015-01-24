@@ -14,3 +14,4 @@ all day and on weekends too. I love interacting with peers so much I organize
 [AngularJS-OC](http://www.meetup.com/AngularJS-OC), present at  meetups, and help with conferences and
 hackathons.
 
+If you are looking for a technologist to solve your business problems find out more [here]({{site_url}}/consulting).

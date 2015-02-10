@@ -9,8 +9,8 @@ comments: false
 Your project's gone full zombie. It's plodding along eating up time and resources. Your vendor is devouring money
 with little to show for it.
 
-What if you found a trusted expert? You can finally finish your project and launch to waiting customers. You won't
-have to wonder who you gave your money to.
+What if you found a trusted expert? You'll finish your project and finally launch to eager customers. You won't
+have to wonder who you're investing your money in.
 
 I've completed projects for companies of all shapes and sizes. Building applications to support business processes and
 consumer products to reach a vast audience are my bread and butter. You can depend on me to deliver and help you

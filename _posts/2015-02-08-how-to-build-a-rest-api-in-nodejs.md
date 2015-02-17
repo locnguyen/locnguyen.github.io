@@ -1,7 +1,10 @@
-Building a REST API in NodeJS is simple with a framework specifically made for the task. [Eran Hammer](http://hueniverse.com) and the team at
-Walmart Labs created [HapiJS](http://hapijs.com) to connect their mobile platforms with a legacy Java backend. Sounds like a high level of complexity in integration with large scale maintainability requirements to me.
+Building a REST API in NodeJS is simple with a framework specifically made for the task.
+[Eran Hammer](http://hueniverse.com) and the team at Walmart Labs created [HapiJS](http://hapijs.com) to connect their 
+mobile platforms with a legacy Java backend. Sounds like complex integrations coupled with with large scale
+maintainability requirements to me!
 
-I use Hapi to build my platform APIs for that very reason. In the next series of blog posts I'll demonstrate how simple it is to stand up an API that you can deploy right away.
+I use Hapi to build my platform APIs for that very reason. I'll demonstrate how simple it is to construct a good
+foundaton for your REST API.
 
 Today let's focus on the first step of creating a server. We'll go over the basics and touch on some handy features.
 

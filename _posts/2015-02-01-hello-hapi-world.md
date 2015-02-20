@@ -1,3 +1,14 @@
+---
+layout: post
+title: Hello Hapi World
+description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+modified: 2015-02-01
+tags: []
+image:
+  feature: abstract-3.jpg
+---
+
+
 So it's time I start blogging (again). I wrote earlier in my career and stopped caring. I really wish I hadn't because
 I'd have 10 years worth of content right now.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello Hapi World
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title: How to Build a REST API in NodeJS
+description:
 modified: 2015-02-01
-tags: []
+tags: [hapijs, nodejs, rest, api]
 image:
   feature: abstract-5.jpg
 ---

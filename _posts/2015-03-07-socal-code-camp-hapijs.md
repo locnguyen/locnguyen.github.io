@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SoCal Code Camp: HapiJS
+title: SoCal Code Camp – HapiJS
 description: 
 modified: 2015-03-07
 tags: [hapijs, nodejs, rest, api, conference, presentation, talk]

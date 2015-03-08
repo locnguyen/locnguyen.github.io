@@ -7,6 +7,10 @@ comments: false
 ---
 
 <div class="presentation-container">
+<iframe src="//www.slideshare.net/slideshow/embed_code/45561741" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lochnguyen/building-an-api-in-node-with-hapi-js" title="Building an API in Node with HapiJS" target="_blank">Building an API in Node with HapiJS</a> </strong> from <strong><a href="//www.slideshare.net/lochnguyen" target="_blank">Loc Nguyen</a></strong> </div>
+</div>
+
+<div class="presentation-container">
 <iframe src="//www.slideshare.net/slideshow/embed_code/43759238" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lochnguyen/dart-and-angulardart" title="Dart and AngularDart" target="_blank">Dart and AngularDart</a> </strong> from <strong><a href="//www.slideshare.net/lochnguyen" target="_blank">Loc Nguyen</a></strong> </div>
 </div>
 

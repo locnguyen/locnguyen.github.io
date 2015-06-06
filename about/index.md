@@ -6,8 +6,8 @@ image:
 comments: false
 ---
 
-I'm a software engineer in Orange County, CA. I get my jollies building stuff with WMDs such as Ruby, NodeJS
-and AngularJS. I slip to the dark side of Java occasionally but I'm working hard on that.
+I'm a software engineer in Orange County, CA. I get my jollies building stuff with WMDs such as Ruby, NodeJS, AngularJS,
+ and ReactJS. I slip to the dark side of Java and C# occasionally but I'm working hard on that.
 
 Open source is core to how I deliver products for my clients. I'm a real software geek and I can talk about it
 all day and on weekends too. I love interacting with peers so much I organize

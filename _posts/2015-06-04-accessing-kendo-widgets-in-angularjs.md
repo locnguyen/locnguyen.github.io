@@ -31,7 +31,7 @@ changed to say the first two sections have to always expand on page load. I need
 to do this.
 
 {% highlight html %}
-<ul kendo-panel-bar="accountAccordion" k-expand-mode="'multiple'" init-expanded="[0,1]" id="accountFormAccordion">
+<ul kendo-panel-bar="accountAccordion" k-expand-mode="'multiple'" init-expanded="[1,2]" id="accountFormAccordion">
     <li>
         Personal Information
         <div>Some personal info inputs</div>

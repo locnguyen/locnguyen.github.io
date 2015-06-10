@@ -3,14 +3,14 @@ layout: post
 title: Up and Running with ReactJS
 description:
 modified: 2015-06-10
-tags: [reactjs, presentations, javascript]
+tags: [reactjs, presentations, meetups, javascript]
 image:
   feature: abstract-1.jpg
 ---
 
 I started the [ReactJS-OC](http://www.meetup.com/ReactJS-OC) meetup group this month and we just had our first gathering.
-I gave a talk on the fundamental concepts of ReactJS and how to get started. There were some technical difficulties but
-we managed to work through them. Humongous thanks to [PeopleSpace](http://peoplespace.us) and [Codazen](http://codezen.com)
+I presented on the fundamental concepts of ReactJS and how to get started. There were technical difficulties but
+we managed with some humor. Humongous thanks to [PeopleSpace](http://peoplespace.us) and [Codazen](http://codazen.com)
 for sponsoring with a venue and food, respectively.
 
 
